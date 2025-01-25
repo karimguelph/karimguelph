@@ -22,68 +22,56 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=🔐+Red+Teaming+and+SOC+Automation;⚔️+Building+Enterprise-Grade+Labs;💻+Cybersecurity+%26+Engineering;🚀+Leveling+Up+Every+Day)
 
----
-
-## 🌐 **Connect with Me**
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdelhamid-306873325/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/karimabdelhamid)  
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimguelph)
 
----
-
 </div>
+
+---
 
 <div align="center">
 
-## 🛠️ **Tech Stack**
+## 🔥 **Dynamic Highlights**
 
-### **Programming Languages**
+![Highlight SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F39C12&center=true&vCenter=true&width=800&lines=%F0%9F%94%A8+Elite+SOC+Automation+Specialist;Building+Red+Team+Labs+with+Precision;Simulating+Enterprise+Threats+%E2%9A%A1%EF%B8%8F;Always+Growing+and+Leveling+Up+%F0%9F%9A%80)
+
+![Gradient Animation](https://svgshare.com/i/uE9.svg)
+
+---
+
+## 🛠️ **Tech Arsenal**
+
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### **Cybersecurity Tools**
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![BloodHound](https://img.shields.io/badge/BloodHound-%23000000.svg?style=for-the-badge&logo=bloodhound&logoColor=white)
-![Responder](https://img.shields.io/badge/Responder-%23000000.svg?style=for-the-badge&logo=shield&logoColor=white)
-
-### **Cloud & Infrastructure**
+![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-%23060707.svg?style=for-the-badge&logo=vmware&logoColor=white)
 
 ---
 
-</div>
-
-<div align="center">
-
-## 🎯 **Certifications**
-📜 **Google Cybersecurity Certificate** *(6/8 Completed)*  
-📜 **Splunk Fundamentals 1**  
-📜 TryHackMe: **Pre-Security, SOC Analyst Level 1**  
-📜 Harvard’s **CS50P (Python)**  
-🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)**  
-
----
-
-## 🔍 **Featured Projects**
+## 🚀 **Featured Projects**
 
 ### 🛡️ **Elastic SIEM SOC Lab**
-- Designed a **SOC lab** for **real-world threat detection** with Elastic Stack.  
-- Created custom **Kibana dashboards** and simulated **Nmap scans**.  
-- [View Project](https://github.com/karimguelph/Elastic-SIEM-SOC-Lab)
+- **Description**: Designed a full SOC lab using Elastic Stack to detect **Nmap scans** and automate **threat alerts**.  
+- **Features**: Custom detection rules, **real-time dashboards**, and enterprise-grade automation.  
+- 🔗 [View Repository](https://github.com/karimguelph/Elastic-SIEM-SOC-Lab)
 
 ### ⚔️ **EDR Attack and Defense Lab**
-- Built a **VMware attack-defense lab** with **Sliver C2** and **LimaCharlie EDR**.  
-- Simulated **privilege escalation** and **credential dumping**.  
-- [View Project](https://github.com/karimguelph/EDR-Attack-and-Defense-Lab)
+- **Description**: Created an **attack-defense lab** with **Sliver C2** and **LimaCharlie EDR** to simulate real-world attacks.  
+- **Features**: Credential dumping, **IOC detection**, and incident response workflows.  
+- 🔗 [View Repository](https://github.com/karimguelph/EDR-Attack-and-Defense-Lab)
+
+### 🕵️ **Active Directory Pentesting Lab**
+- **Description**: Simulated attacks like **LLMNR poisoning** and **Kerberoasting** in a custom-built Active Directory environment.  
+- **Features**: Documented enterprise-grade defenses and exploit mitigation techniques.  
+- 🔗 [View Repository](https://github.com/karimguelph/Active-Directory-Pentesting-Lab)
 
 ---
+
+<div align="center">
 
 ## 📊 **Dynamic GitHub Stats**
 
@@ -96,11 +84,32 @@ Here are some ideas to get you started:
 ### 🏆 **GitHub Achievements**
 ![Trophies](https://github-profile-trophy.vercel.app/?username=karimguelph&theme=darkhub&margin-w=15&margin-h=15)
 
+</div>
+
 ---
 
-## ⚡ **What I'm Working On**
-💡 Building more labs focused on **Active Directory Exploitation**.  
-🎯 Prepping for **National Cyber League (NCL)**.  
-📚 Exploring advanced **SOC workflows and automation**.  
+## ⚡ **Certifications**
+
+- 📜 Google **Cybersecurity Certificate** *(6/8 Completed)*  
+- 📜 **Splunk Fundamentals 1**  
+- 📜 **TryHackMe: Pre-Security, SOC Analyst Level 1**  
+- 📜 Harvard’s **CS50P (Python)**  
+- 🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)**  
+
+---
+
+## 🌐 **What I'm Working On**
+
+- Building advanced **Active Directory labs** for real-world exploitation and mitigation training.  
+- Preparing for **National Cyber League (NCL)** competitions.  
+- Exploring advanced **SOC workflows** and **EDR automation**.
+
+---
+
+<div align="center">
+
+✨ **Thanks for visiting my profile! Let’s connect and build something amazing.** ✨  
+
+![Cool GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
 </div>
