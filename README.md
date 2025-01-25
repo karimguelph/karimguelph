@@ -113,6 +113,118 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimguelph&layout=compact&theme=radical)
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karimguelph&theme=gruvbox)
 
+<div align="center">
+
+# 💻 **Karim Abdelhamid**  
+### 🚀 *Aspiring Cybersecurity Specialist | Red Team Enthusiast | Engineer*  
+
+![Profile Banner](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=500&center=true&vCenter=true&width=800&lines=⚡+Passionate+about+Cybersecurity+and+Engineering;🔥+Building+Attack-Defense+Labs;🚀+Engineer+by+Day%2C+Red+Team+by+Night;🌐+Always+Learning+and+Innovating)
+
+![Profile Views](https://komarev.com/ghpvc/?username=karimguelph&label=Profile%20Views&color=brightgreen&style=flat-square)
+
+</div>
+
+---
+
+## ⚡ **About Me**
+
+Hey there! I'm **Karim**, a self-motivated and passionate **cybersecurity enthusiast** with a knack for breaking systems (ethically 😉) and building cutting-edge solutions. I love creating **enterprise-grade labs** and documenting them for others to learn. When I'm not in the lab, you can catch me exploring **new programming languages**, crushing **TryHackMe challenges**, or optimizing my **fitness routine**.
+
+### 🌟 Fun Facts About Me:
+- 💡 I once built a working keylogger in **Python** for a project (don’t worry, only for learning purposes!).
+- 📜 Featured in **Khaleej Times** for academic excellence.
+- 🎯 Planning to get **eJPT** and **Security+** this year!
+
+---
+
+<div align="center">
+
+## 🔧 **Tech Arsenal**
+
+### 💻 **Languages & Scripting**  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%23000000.svg?style=for-the-badge&logo=gnubash&logoColor=white)
+
+### 🔐 **Cybersecurity Tools**  
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-%23000000.svg?style=for-the-badge&logo=bloodhound&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-%23000000.svg?style=for-the-badge&logo=shield&logoColor=white)
+
+### 🌐 **Web Development**  
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+
+### ☁️ **Cloud Platforms**  
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+
+</div>
+
+---
+
+## 🚀 **Featured Projects**
+
+### 🛡️ Elastic SIEM SOC Lab  
+- Built a **state-of-the-art SIEM lab** using **Elastic Stack** for real-world threat detection.  
+- Visualized telemetry using **Kibana dashboards**.  
+- Simulated attacks like **Nmap scans** and **Hydra brute-force**.  
+- 🔗 [View Project](https://github.com/karimguelph/Elastic-SIEM-SOC-Lab)
+
+### ⚔️ Active Directory Penetration Testing Lab  
+- Designed a **realistic Active Directory lab** with **attack-defense workflows**.  
+- Simulated **LLMNR poisoning**, **Kerberoasting**, and **Pass-the-Hash** attacks.  
+- 🔗 [View Project](https://github.com/karimguelph/AD-Penetration-Testing-Lab)
+
+### 🔍 Remote Keylogger (Python)  
+- Developed a stealth **keylogger** disguised as a Windows executable.  
+- Captures **keystrokes**, **Wi-Fi profiles**, and more.  
+- 🔗 [View Project](https://github.com/karimguelph/Remote-Keylogger)
+
+---
+
+<div align="center">
+
+## 📊 **Dynamic GitHub Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimguelph&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimguelph&layout=compact&theme=radical)
+
+### 🏆 **GitHub Trophies**
+![Trophies](https://github-profile-trophy.vercel.app/?username=karimguelph&theme=onedark&margin-w=15)
+
+</div>
+
+---
+
+## 🎓 **Certifications**
+- 📜 **Google Cybersecurity Certificate** (6/8 Completed)  
+- 📜 **Splunk Fundamentals 1**  
+- 📜 **TryHackMe Pre-Security & SOC Analyst Level 1**
+
+### 🔜 **Planned**  
+- 🏅 **eJPT** (May 2025)  
+- 🏅 **Security+** (June 2025)  
+
+---
+
+<div align="center">
+
+## 📅 **Work in Progress**
+
+💡 Building new labs to simulate **real-world cyberattacks**.  
+🎯 Preparing for the **National Cyber League (NCL)**.  
+📚 Diving deeper into **Active Directory Exploitation**.
+
+---
+
+### 🎉 Thanks for visiting my profile! Let’s connect and build something amazing together.  
+![Connect GIF](https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif)
+
+</div>
+
 ---
 
 ## 🔥 **What I'm Currently Crushing**
