@@ -28,19 +28,6 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-
-## 🔥 **Dynamic Highlights**
-
-![Highlight SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=F39C12&center=true&vCenter=true&width=800&lines=🔧+Elite+SOC+Builder;⚔️+Advanced+Red+Team+Simulations;💡+Innovating+Every+Day;🌟+Striving+for+Excellence)
-
-![Progress Bar](https://progress-bar.xyz/80/?title=Cybersecurity+Mastery&progress_background=000000&progress_number_color=FFFFFF&progress_color=FF5733&width=500)
-![Progress Bar](https://progress-bar.xyz/60/?title=Red+Teaming+Skills&progress_background=000000&progress_number_color=FFFFFF&progress_color=1E90FF&width=500)
-
-</div>
-
----
-
 ## 🛠️ **Tech Arsenal**
 
 <div align="center">
