@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
-✨ **Thanks for visiting my profile! Let’s connect and build something amazing.** ✨  
+ **This is probably me right now** 
 
 ![Cool GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
