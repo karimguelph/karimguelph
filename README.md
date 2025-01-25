@@ -15,67 +15,83 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hello, I'm Karim Guelph! 
-🚀 **Aspiring Cybersecurity Professional | Software Developer | Problem Solver**  
-🎓 **Final-Year Computer Engineering Student at the University of Guelph**  
+# 👋 Hello, I'm Karim 
+# 👨‍💻 About Me:
+🔐 **Aspiring Cybersecurity Specialist | Red Team Enthusiast**
 
-I am passionate about mastering cybersecurity, and building impactful projects. My journey is all about **growth**, **learning**, and leaving a mark in the tech world.
+🎓 **Computer Engineering Student** at the **University of Guelph**, with a strong passion for **cybersecurity**, **threat detection**, and **incident response**. I love designing realistic labs and projects that simulate enterprise-level security challenges.
+
+📈 I aim to be among the top professionals in the cybersecurity field by creating and sharing practical projects, learning cutting-edge tools, and continuously improving.
 
 ---
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karimguelph)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimguelph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/karimguelph](https://www.linkedin.com/in/karim-abdelhamid-306873325/))
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/karimabdelhamid)
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/karimguelph)
 
 ---
 
-## 🛠️ Tech Stack:
-### Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+## 🔧 Tech Stack & Tools:
+### 🛠️ **Cybersecurity Tools:**
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?logo=linux&logoColor=white)
+![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-%23005571.svg?logo=elastic&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-%23005571.svg?logo=kibana&logoColor=white)
+![Sliver C2](https://img.shields.io/badge/Sliver%20C2-%23000000.svg?logo=attackiq&logoColor=white)
+![LimaCharlie EDR](https://img.shields.io/badge/LimaCharlie-%23005571.svg?logo=shield&logoColor=white)
+![BloodHound](https://img.shields.io/badge/BloodHound-%23000000.svg?logo=bloodhound&logoColor=white)
+![Responder](https://img.shields.io/badge/Responder-%23000000.svg?logo=shield&logoColor=white)
 
-### Frameworks & Tools:
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=flat)
+### 💻 **Programming:**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-121011?logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+
+### ⚙️ **Infrastructure & Virtualization:**
+![VMware](https://img.shields.io/badge/VMware-%23060707.svg?logo=vmware&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-%230078D6.svg?logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-%23005571.svg?logo=windows&logoColor=white)
 
 ---
 
-## 📈 GitHub Stats:
+## 🚀 Featured Projects:
+### 1. **Elastic SIEM SOC Lab**
+   - **Description:** Built a **SIEM lab** using the Elastic Stack to detect real-world attacks. Set up **Elastic Agent** on a Kali Linux VM to monitor threats like **Nmap scans** and **Hydra brute-force attacks**. Created custom **detection rules** in Kibana, automated real-time alerts via **email/webhooks**, and designed dashboards to visualize telemetry.
+   - **Skills:** Kali Linux, Elastic Stack, Threat Detection, Incident Response, SIEM  
+   - **[GitHub Repository](https://github.com/karimguelph/ELastic-SIEM-SOC-Lab)**
+
+### 2. **EDR Attack and Defense Home Lab**
+   - **Description:** Designed an **attack-defense lab** in VMware with **Ubuntu (attacker)**, **Windows 11 (victim)**, and tools like **Sliver C2** and **LimaCharlie EDR**. Simulated attacks like **credential dumping**, **privilege escalation**, and **C2 callbacks**. Created custom detection rules for **IOCs** and documented defenses.
+   - **Skills:** VMware, EDR, Sliver C2, Incident Simulation, Network Security  
+   - **[GitHub Repository](https://github.com/karimguelph/EDR-Attack-and-Defense-Home-Lab)**
+
+### 3. **Remote Keylogger**
+   - **Description:** Developed a **Python-based keylogger** disguised as a legitimate Windows file (.exe). Captures keystrokes, collects system info (**Wi-Fi profiles, host/network data**), and sends logs via email. Added stealth features and fully documented the process.
+   - **Skills:** Python, Reverse Engineering, Cybersecurity, Windows Internals  
+   - **[GitHub Repository](https://github.com/karimguelph/remote-keylogger)**
+
+### 4. **Active Directory Penetration Testing Lab**
+   - **Description:** Built an **Active Directory penetration testing lab** in VMware with a domain controller, user machines, and group policies. Simulated attacks like **LLMNR poisoning**, **Pass-the-Hash**, and **Kerberoasting** using tools like **BloodHound** and **Responder**. Documented defenses like **SMB signing** and **advanced logging**.
+   - **Skills:** Active Directory, Penetration Testing, VMware, BloodHound, Cybersecurity  
+   - **[GitHub Repository](https://github.com/karimguelph/Active-Directory-Penetration-Testing-Lab)**
+
+---
+
+## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimguelph&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karimguelph&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karimguelph&theme=gruvbox)
 
 ---
 
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=karimguelph&theme=radical)
+## 🏆 Certifications:
+- Splunk Fundamentals 1
+- TryHackMe Pre-Security and Intro to Cybersecurity
+- Google Cybersecurity Certificate (6/8 courses completed)
 
 ---
 
-## 🌟 Featured Projects:
-### [🔒 Cybersecurity Homelab](https://github.com/karimguelph/cybersecurity-homelab)
-> A hands-on homelab showcasing practical cybersecurity skills, from network analysis to penetration testing.
-
-### [⚙️ Sorting Algorithm Visualizer](https://github.com/karimguelph/sorting-algorithm-visualizer)
-> Interactive visualization of popular sorting algorithms, built with JavaScript.
-
-### [📡 IoT Smart Home System](https://github.com/karimguelph/iot-smart-home)
-> A smart home automation project featuring IoT devices and cloud integration.
-
----
-
-## 🔥 Goals for 2025:
-- 🥇 Earn certifications like eJPT and CompTIA Security+ (or equivalent).  
-- 💻 Build an advanced cybersecurity portfolio.  
-- 🌐 Secure a top-tier cybersecurity internship (RBC, here I come!).  
-- 🏋️‍♂️ Achieve a lean, muscular physique and stay committed to fitness.
-
----
-
-✨ Let's connect and create something amazing together!
+### 🌟 What I'm Working On:
+- **TryHackMe SOC Analyst Path**
+- **National Cyber League (NCL)** preparation
+- **Advanced cybersecurity projects**
