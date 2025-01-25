@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 
 ---
 
- **This is probably me right now** 
+ **This is probably me right now cause im locked in** 
 
 ![Cool GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
