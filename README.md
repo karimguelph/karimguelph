@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 🎓 Harvard’s **CS50P (Python)**  
 🎓 Google **Cybersecurity Professional Certificate** (6/8 courses completed)  
 🎓 Splunk Fundamentals 1  
-🎓 TryHackMe: **Pre-Security, Intro to Cybersecurity, SOC Analyst Level 1**  
+🎓 TryHackMe: **Pre-Security, Intro to Cybersecurity**  
 🎓 **PwC, Mastercard, Telstra** Virtual Internships  
 
 🛠️ **Planned Certifications:**  
