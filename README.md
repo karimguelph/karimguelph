@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 <div align="center">
 
 # **Karim Abdelhamid**  
+
+![Cool GIF](https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem)
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;🔐+Red+Team+Explorer;💻+Computer+Engineering+Student;⚡+Building+Elite+SOC+Labs;🚀+Always+Learning+and+Improving)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdelhamid-306873325/)  
@@ -83,7 +86,7 @@ Here are some ideas to get you started:
 
  **this is me right now cause im locked in** 
 
-![Cool GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+![Cool GIF](https://giphy.com/gifs/loop-glitch-matrix-3og0ILLVvPp8d64Jd6)
 
 </div>
 
