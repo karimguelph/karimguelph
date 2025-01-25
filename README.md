@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![Highlight SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F39C12&center=true&vCenter=true&width=800&lines=%F0%9F%94%A8+Elite+SOC+Automation+Specialist;Building+Red+Team+Labs+with+Precision;Simulating+Enterprise+Threats+%E2%9A%A1%EF%B8%8F;Always+Growing+and+Leveling+Up+%F0%9F%9A%80)
 
-![Gradient Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4500&pause=800&color=FF5733&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;🚀+Red+Team+Explorer;💻+Computer+Engineering+Student;🔧+Building+Elite+SOC+Labs;🌟+Always+Leveling+Up)
+![Progress](https://progress-bar.xyz/70/?title=Cybersecurity+Journey&progress_background=000000&progress_number_color=FFFFFF&progress_color=FF5733&width=400)
 
 ---
 
