@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # **Karim Abdelhamid**  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;Red+Team+Explorer;Computer+Engineering+Student;Always+Building+%26+Improving)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=🔐+Red+Teaming+and+SOC+Automation;⚔️+Building+Enterprise-Grade+Labs;💻+Cybersecurity+%26+Engineering;🚀+Leveling+Up+Every+Day)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;🔐+Red+Team+Explorer;💻+Computer+Engineering+Student;⚡+Building+Elite+SOC+Labs;🚀+Always+Learning+and+Improving)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdelhamid-306873325/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/karimabdelhamid)  
@@ -34,13 +32,18 @@ Here are some ideas to get you started:
 
 ## 🔥 **Dynamic Highlights**
 
-![Highlight SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F39C12&center=true&vCenter=true&width=800&lines=%F0%9F%94%A8+Elite+SOC+Automation+Specialist;Building+Red+Team+Labs+with+Precision;Simulating+Enterprise+Threats+%E2%9A%A1%EF%B8%8F;Always+Growing+and+Leveling+Up+%F0%9F%9A%80)
+![Highlight SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=700&color=F39C12&center=true&vCenter=true&width=800&lines=🔧+Elite+SOC+Builder;⚔️+Advanced+Red+Team+Simulations;💡+Innovating+Every+Day;🌟+Striving+for+Excellence)
 
-![Progress](https://progress-bar.xyz/70/?title=Cybersecurity+Journey&progress_background=000000&progress_number_color=FFFFFF&progress_color=FF5733&width=400)
+![Progress Bar](https://progress-bar.xyz/80/?title=Cybersecurity+Mastery&progress_background=000000&progress_number_color=FFFFFF&progress_color=FF5733&width=500)
+![Progress Bar](https://progress-bar.xyz/60/?title=Red+Teaming+Skills&progress_background=000000&progress_number_color=FFFFFF&progress_color=1E90FF&width=500)
+
+</div>
 
 ---
 
 ## 🛠️ **Tech Arsenal**
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -49,6 +52,8 @@ Here are some ideas to get you started:
 ![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 ![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</div>
 
 ---
 
@@ -73,40 +78,23 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-## 📊 **Dynamic GitHub Stats**
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karimguelph&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karimguelph&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=karimguelph&theme=radical&hide_border=true)  
-
----
-
-### 🏆 **GitHub Achievements**
-![Trophies](https://github-profile-trophy.vercel.app/?username=karimguelph&theme=darkhub&margin-w=15&margin-h=15)
-
-</div>
-
----
-
 ## ⚡ **Certifications**
 
-- 📜 Google **Cybersecurity Certificate** *(6/8 Completed)*  
-- 📜 **Splunk Fundamentals 1**  
-- 📜 **TryHackMe: Pre-Security, SOC Analyst Level 1**  
-- 📜 Harvard’s **CS50P (Python)**  
-- 🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)**  
+📜 Google **Cybersecurity Certificate** *(6/8 Completed)*  
+📜 **Splunk Fundamentals 1**  
+📜 **TryHackMe: Pre-Security, SOC Analyst Level 1**  
+📜 Harvard’s **CS50P (Python)**  
+🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)**  
 
 ---
 
-## 🌐 **What I'm Working On**
+## 🌟 **What I'm Working On**
 
 - Building advanced **Active Directory labs** for real-world exploitation and mitigation training.  
 - Preparing for **National Cyber League (NCL)** competitions.  
 - Exploring advanced **SOC workflows** and **EDR automation**.
 
 ---
-
-<div align="center">
 
 ✨ **Thanks for visiting my profile! Let’s connect and build something amazing.** ✨  
 
