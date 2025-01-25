@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # **Karim Abdelhamid**  
 
-![Cool GIF](https://giphy.com/gifs/glitch-hacker-metaverse-bJ4TVNYNUympPgcpem)
+![Cool GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWkxMHk1am1xbHczOWRqNzExbzliMHhrYWpjOHhka3B5MnJxeml2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;🔐+Red+Team+Explorer;💻+Computer+Engineering+Student;⚡+Building+Elite+SOC+Labs;🚀+Always+Learning+and+Improving)
 
