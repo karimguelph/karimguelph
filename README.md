@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <div align="center">
 
 # **Karim Abdelhamid**  
-### 🚀 *Cybersecurity Enthusiast | Red Team Explorer | Engineer in Progress*
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=500&color=F39C12&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;Red+Team+Explorer;Computer+Engineering+Student;Always+Building+%26+Improving)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00FF00&center=true&vCenter=true&width=1000&lines=🔐+Red+Teaming+and+SOC+Automation;⚔️+Building+Enterprise-Grade+Labs;💻+Cybersecurity+%26+Engineering;🚀+Leveling+Up+Every+Day)
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ![Highlight SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=800&color=F39C12&center=true&vCenter=true&width=800&lines=%F0%9F%94%A8+Elite+SOC+Automation+Specialist;Building+Red+Team+Labs+with+Precision;Simulating+Enterprise+Threats+%E2%9A%A1%EF%B8%8F;Always+Growing+and+Leveling+Up+%F0%9F%9A%80)
 
-![Gradient Animation](https://svgshare.com/i/uE9.svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=500&color=FF5733&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;Red+Team+Explorer;Computer+Engineering+Student;Building+Elite+SOC+Labs)
 
 ---
 
