@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **karimguelph/karimguelph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -68,7 +66,7 @@ Here are some ideas to get you started:
 
 📜 Google **Cybersecurity Certificate** *(6/8 Completed)*  
 📜 **Splunk Fundamentals 1**  
-📜 **TryHackMe: Pre-Security, SOC Analyst Level 1**  
+📜 **TryHackMe: Pre-Security**  
 📜 Harvard’s **CS50P (Python)**  
 🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)**  
 
@@ -76,13 +74,14 @@ Here are some ideas to get you started:
 
 ## 🌟 **What I'm Working On**
 
-- Building advanced **Active Directory labs** for real-world exploitation and mitigation training.  
+- Building an advanced **Active Directory lab** for real-world exploitation and mitigation training.  
 - Preparing for **National Cyber League (NCL)** competitions.  
 - Exploring advanced **SOC workflows** and **EDR automation**.
+- Still doing the SOC Analyst Level 1 Path
 
 ---
 
- **This is probably me right now cause im locked in** 
+ **this is me right now cause im locked in** 
 
 ![Cool GIF](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
