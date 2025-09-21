@@ -68,7 +68,8 @@ Here are some ideas to get you started:
 📜 **Splunk Fundamentals 1**  
 📜 **TryHackMe: Pre-Security**  
 📜 Harvard’s **CS50P (Python)**  
-🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)** (Done ✅) 
+🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)** (Done ✅)
+
 🏅 Latest Plan: **CompTIA Network+** and **CompTIA A+**
 
 
