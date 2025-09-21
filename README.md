@@ -56,11 +56,6 @@ Here are some ideas to get you started:
 - **Features**: Credential dumping, **IOC detection**, and incident response workflows.  
 - 🔗 [View Repository](https://github.com/karimguelph/EDR-Attack-and-Defense-Lab)
 
-### 🕵️ **Active Directory Pentesting Lab**
-- **Description**: Simulated attacks like **LLMNR poisoning** and **Kerberoasting** in a custom-built Active Directory environment.  
-- **Features**: Documented enterprise-grade defenses and exploit mitigation techniques.  
-- 🔗 [View Repository](https://github.com/karimguelph/Active-Directory-Pentesting-Lab)
-
 ---
 
 <div align="center">
