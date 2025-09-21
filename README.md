@@ -63,14 +63,20 @@ Here are some ideas to get you started:
 ## ⚡ **Certifications**
 
 📜 **CompTIA Security+**   
+
 📜 **Microsoft Azure Fundamentals (AZ-900)**   
+
 📜 Google **Cybersecurity Certificate**   
+
 📜 **Splunk Fundamentals 1**  
+
 📜 **TryHackMe: Pre-Security**  
+
 📜 Harvard’s **CS50P (Python)**  
+
 🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)** (Done ✅)
 
-🏅 Latest Plan: **CompTIA Network+** and **CompTIA A+**
+🏅 Updated Plan: **CompTIA Network+** and **CompTIA A+**
 
 
 ---
