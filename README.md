@@ -71,6 +71,7 @@ Here are some ideas to get you started:
 🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)** (Done ✅) 
 🏅 Latest Plan: **CompTIA Network+** and **CompTIA A+**
 
+
 ---
 
 ## 🌟 **What I'm Working On**
