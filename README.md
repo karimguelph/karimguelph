@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 ## 🌟 **What I'm Working On**
 
 - Building the advanced **Active Directory lab** for real-world exploitation and mitigation training.  
-- Preparing for **National Cyber League (NCL)** Spring 2025 competition.  
+- Preparing for **National Cyber League (NCL)** Spring 2025 competition. (Done ✅)  
 - Still doing the SOC Analyst Level 1 Path
 
 
