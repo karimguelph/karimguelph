@@ -62,7 +62,9 @@ Here are some ideas to get you started:
 
 ## ⚡ **Certifications**
 
-📜 Google **Cybersecurity Certificate** *(6/8 Completed)*  
+📜 **CompTIA Security+**   
+📜 **Microsoft Azure Fundamentals (AZ-900)**   
+📜 Google **Cybersecurity Certificate**   
 📜 **Splunk Fundamentals 1**  
 📜 **TryHackMe: Pre-Security**  
 📜 Harvard’s **CS50P (Python)**  
