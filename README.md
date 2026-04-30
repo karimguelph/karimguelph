@@ -67,8 +67,6 @@ The goal was to practice real IT administration tasks while learning how enterpr
 
 **Skills used:** Windows Server, Active Directory, Group Policy, PowerShell, security baselines, system administration
 
-**Repository:** Add link here when ready
-
 ---
 
 ### EDR Attack and Defense Lab
