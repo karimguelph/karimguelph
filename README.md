@@ -1,92 +1,131 @@
-<!--
-**karimguelph/karimguelph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+```md
 <div align="center">
 
-# **Karim Abdelhamid**  
+# Karim Abdelhamid
 
-![giphy](https://github.com/user-attachments/assets/566ef284-22aa-449c-94fe-32b35b816f8c)
+**Computer Engineering Graduate | IT Support | Cloud Security | SOC Labs**
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=%F0%9F%9A%80+Cybersecurity+Enthusiast;🔐+Red+Team+Explorer;💻+Computer+Engineering+Student;⚡+Building+Elite+SOC+Labs;🚀+Always+Learning+and+Improving)
+I build hands-on labs around cloud security, log analysis, SIEM monitoring, endpoint detection, and practical IT infrastructure. My current focus is improving my skills in Azure, Microsoft Sentinel, KQL, endpoint security, and cloud operations.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdelhamid-306873325/)  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/karimabdelhamid)  
-[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimguelph)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-abdelhamid-306873325/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/karimabdelhamid)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karimguelph)
 
 </div>
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## About Me
 
-<div align="center">
+I am a Computer Engineering graduate from the University of Guelph with experience in IT support, technical troubleshooting, web systems, and hands-on cybersecurity labs. I enjoy building projects that simulate real environments instead of only following theory.
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Golang](https://img.shields.io/badge/Golang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic%20Stack-%23005571.svg?style=for-the-badge&logo=elastic&logoColor=white)
+My strongest interests are:
 
-</div>
+- Cloud security and SOC operations
+- Microsoft Azure and Microsoft Sentinel
+- SIEM alerting, log analysis, and KQL
+- Endpoint detection and response
+- Windows security events and Active Directory security
+- Practical IT support and infrastructure troubleshooting
 
----
-
-## 🚀 **Featured Projects**
-
-### 🛡️ **Elastic SIEM SOC Lab**
-- **Description**: Designed a full SOC lab using Elastic Stack to detect **Nmap scans** and automate **threat alerts**.  
-- **Features**: Custom detection rules, **real-time dashboards**, and enterprise-grade automation.  
-- 🔗 [View Repository](https://github.com/karimguelph/Elastic-SIEM-SOC-Lab)
-
-### ⚔️ **EDR Attack and Defense Lab**
-- **Description**: Created an **attack-defense lab** with **Sliver C2** and **LimaCharlie EDR** to simulate real-world attacks.  
-- **Features**: Credential dumping, **IOC detection**, and incident response workflows.  
-- 🔗 [View Repository](https://github.com/karimguelph/EDR-Attack-and-Defense-Lab)
+I am currently focused on building projects that connect IT support, cloud operations, and security monitoring into one clear career path.
 
 ---
 
-<div align="center">
+## Technical Skills
 
-## ⚡ **Certifications**
+**Cloud & Security:** Microsoft Azure, Microsoft Sentinel, Log Analytics, KQL, Azure Virtual Machines, Network Security Groups, cloud monitoring
 
-📜 **CompTIA Security+**   
+**SIEM & Detection:** Elastic Stack, Kibana, Splunk, Sentinel Workbooks, detection rules, Windows Event Logs, failed-login analysis
 
-📜 **Microsoft Azure Fundamentals (AZ-900)**   
+**Endpoint & Infrastructure:** Windows, Linux, Active Directory basics, Group Policy, endpoint troubleshooting, system hardening
 
-📜 Google **Cybersecurity Certificate**   
+**Programming & Tools:** Python, JavaScript, SQL, Git, GitHub, PowerShell basics
 
-📜 **Splunk Fundamentals 1**  
-
-📜 **TryHackMe: Pre-Security**  
-
-📜 Harvard’s **CS50P (Python)**  
-
-🏅 Planned: **eJPT (May 2025)**, **Security+ (June 2025)** (Done ✅)
-
-🏅 Updated Plan: **CompTIA Network+** and **CompTIA A+**
-
+**Cybersecurity Labs:** Honeypots, SOC dashboards, EDR testing, attack simulation, incident response workflows
 
 ---
 
-## 🌟 **What I'm Working On**
+## Featured Projects
 
-- Building the advanced **Active Directory lab** for real-world exploitation and mitigation training.  
-- Preparing for **National Cyber League (NCL)** Spring 2025 competition. (Done ✅)  
-- Still doing the SOC Analyst Level 1 Path
+### Azure SOC Attack Detection Lab
 
+Built a cloud-based SOC lab in Microsoft Azure using a publicly exposed honeypot virtual machine, Log Analytics Workspace, Microsoft Sentinel, KQL queries, and a global attack map.
 
-</div>
+The lab collected real failed login attempts from the internet and used Sentinel to analyze attacker behavior, enrich logs with GeoIP data, and visualize attack sources.
 
+**Skills used:** Azure, Sentinel, Log Analytics, KQL, Windows Event Logs, NSG rules, SIEM monitoring, threat visualization
+
+**Repository:** [azure-soc-attack-detection-lab](https://github.com/karimguelph/azure-soc-attack-detection-lab)
+
+---
+
+### Active Directory Hardening Lab
+
+Built and secured a Windows Server Active Directory lab focused on domain administration, Group Policy configuration, organizational unit structure, and security baseline implementation.
+
+The goal was to practice real IT administration tasks while learning how enterprise Windows environments are managed and hardened.
+
+**Skills used:** Windows Server, Active Directory, Group Policy, PowerShell, security baselines, system administration
+
+**Repository:** Add link here when ready
+
+---
+
+### EDR Attack and Defense Lab
+
+Created an endpoint detection lab using Sliver C2 and LimaCharlie EDR to simulate attacker behavior and observe defensive telemetry.
+
+The project focused on understanding how endpoint tools detect suspicious processes, command execution, credential access behavior, and indicators of compromise.
+
+**Skills used:** LimaCharlie, Sliver C2, endpoint telemetry, IOC detection, attack simulation, incident response
+
+**Repository:** [EDR-Attack-and-Defense-Lab](https://github.com/karimguelph/EDR-Attack-and-Defense-Lab)
+
+---
+
+### Elastic SIEM SOC Lab
+
+Built a SOC-style monitoring lab using the Elastic Stack to collect logs, detect Nmap scanning activity, create dashboards, and configure alerting.
+
+This project helped me understand how logs move from endpoints into a SIEM and how detection logic can be used to identify suspicious activity.
+
+**Skills used:** Elastic Stack, Kibana, SIEM dashboards, detection rules, Nmap, log analysis
+
+**Repository:** [Elastic-SIEM-SOC-Lab](https://github.com/karimguelph/Elastic-SIEM-SOC-Lab)
+
+---
+
+## Certifications
+
+- CompTIA Security+
+- Microsoft Azure Fundamentals (AZ-900)
+- CompTIA A+ Core 2
+- ITIL 4 Foundation
+- Google Cybersecurity Certificate
+- Splunk Fundamentals 1
+- Harvard CS50P: Introduction to Programming with Python
+- TryHackMe Pre-Security
+- TryHackMe Introduction to Cyber Security
+
+---
+
+## Current Focus
+
+I am currently improving my skills in:
+
+- Microsoft Azure administration and monitoring
+- Microsoft Sentinel and KQL
+- Cloud security project work
+- Network+ and infrastructure fundamentals
+- Practical IT support, troubleshooting, and documentation
+- Building portfolio projects that show real technical ability
+
+---
+
+## Contact
+
+- LinkedIn: [linkedin.com/in/karim-abdelhamid-306873325](https://www.linkedin.com/in/karim-abdelhamid-306873325/)
+- GitHub: [github.com/karimguelph](https://github.com/karimguelph)
+- TryHackMe: [tryhackme.com/r/p/karimabdelhamid](https://tryhackme.com/r/p/karimabdelhamid)
+```
